@@ -1,6 +1,6 @@
 # LarBulmark
 
-Marketplace template build with Bulma CSS, Livewire, Laravel 8
+Marketplace template build with Bootstrap 5, Livewire, Laravel 8
 
 ## Tech Stack
 
@@ -13,7 +13,7 @@ Marketplace template build with Bulma CSS, Livewire, Laravel 8
 1. Clone the project
 
 ```sh
-git clone https://github.com/mocfaisal/LarBulmark.git
+git clone https://github.com/mocfaisal/LarBootMark.git
 ```
 
 2. Install dependencies
